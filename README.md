@@ -2,6 +2,6 @@
 
 Graph visualizer of time dependent functions in the complex plane, like fourier transforms!
 
-![Alt text](/demo/img.png?raw=true "asd")
+![Alt text](/demo/img.png?raw=true)
 
 Video: https://www.youtube.com/watch?v=zKNh_ZpSOFg
